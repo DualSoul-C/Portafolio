@@ -25,7 +25,7 @@ El objetivo es mostrar cómo reutilizar modelos preentrenados en **ImageNet** pa
 ├── app.py # Aplicación web con Streamlit \
 ├── image_classifier.h5 # Modelo entrenado \
 ├── requirements.txt # Dependencias del proyecto \
-└── README.md # Documentación \
+└── README.md # Documentación
 
 ## ⚙️ Instalación y uso
 
