@@ -21,19 +21,22 @@ El objetivo es mostrar cómo reutilizar modelos preentrenados en **ImageNet** pa
 ---
 
 ## 📂 Estructura del Proyecto
+```
 ├── train.ipynb # Notebook con el entrenamiento del modelo
 ├── app.py # Aplicación web con Streamlit
 ├── image_classifier.h5 # Modelo entrenado
 ├── requirements.txt # Dependencias del proyecto
 └── README.md # Documentación
+```
 
 
 ## ⚙️ Instalación y uso
 
 ### 1. Clonar repositorio
-bash
+```
 git clone https://github.com/tuusuario/01-ImageClassifier.git
 cd 01-ImageClassifier
+```
 
 ### 2. Crear entorno e instalar dependencias
 pip install -r requirements.txt
