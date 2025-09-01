@@ -21,14 +21,11 @@ El objetivo es mostrar cómo reutilizar modelos preentrenados en **ImageNet** pa
 ---
 
 ## 📂 Estructura del Proyecto
-```
-├── train.ipynb # Notebook con el entrenamiento del modelo
-├── app.py # Aplicación web con Streamlit
-├── image_classifier.h5 # Modelo entrenado
-├── requirements.txt # Dependencias del proyecto
-└── README.md # Documentación
-```
-
+├── train.ipynb # Notebook con el entrenamiento del modelo \
+├── app.py # Aplicación web con Streamlit \
+├── image_classifier.h5 # Modelo entrenado \
+├── requirements.txt # Dependencias del proyecto \
+└── README.md # Documentación \
 
 ## ⚙️ Instalación y uso
 
@@ -39,10 +36,16 @@ cd 01-ImageClassifier
 ```
 
 ### 2. Crear entorno e instalar dependencias
+```
 pip install -r requirements.txt
+```
 
 ### 3. Entrenar modelo
+```
 jupyter notebook train.ipynb
+```
 
 ### 4. Ejecutar aplicación web
+```
 streamlit run app.py
+```
