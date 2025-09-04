@@ -1,0 +1,8 @@
+# Ignora la carpeta de resultados
+results
+
+# Ignora la carpeta logs
+logs
+
+# Ignora la carpeta anime-sentiment-model
+anime-sentiment-model
