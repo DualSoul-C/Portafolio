@@ -14,7 +14,7 @@ Este repositorio reúne proyectos prácticos de **Inteligencia Artificial / Mach
 
 2. **02-SentimentApp-Anime — Análisis de Sentimientos (Anime)**
    - **Modelo:** BERT (Hugging Face) fine-tuned
-   - **Dataset:** *Anime Recommendations Database* (Kaggle) → ratings mapeados a {negative, neutral, positive}
+   - **Dataset:** Scraping con Jikanpy mediante MyAnimeList → ratings mapeados a {negative, neutral, positive}
    - **Stack:** PyTorch + Transformers + Datasets (Hugging Face) + Streamlit
    - **GPU:** Entrenamiento acelerado con CUDA (opcional)
    - **Objetivo:** Clasificar sentimiento de reseñas de anime y exponer un demo web.
